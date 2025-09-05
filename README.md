@@ -1,4 +1,2 @@
 # github-recitation-f25
-Recitation Demo
-
-this is going to be a merge conflawidfhawiofhawofoqiw
+Five Guys has the best burgers!
